@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="src/CoreLib/CoreLib.csproj" Id="466adea6-07b1-4613-89a2-cd86bf772783" />
+  <Project Path="src/DataModels/DataModels.csproj" Id="43a5d52e-6c5d-4c89-b734-be94aa62909e" />
+</Solution>
